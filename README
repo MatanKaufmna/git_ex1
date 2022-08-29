@@ -41,22 +41,22 @@ and also the changes that we did for same files and yet add to stage
 3.
     1.
     2.
-4.
-5.
+4. .env and config.json
+5.yes the order is important we need to pick the right files in the correct flow of code for the changes to work correctly.
 
 
 # Changes in working tree and switch branches
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. we in the right branch
+2.echo hi > take.txt
+3.git checkout dev
+4. gui forced checkout
+5. no it does not contain my changes
+6. no its deleted from branch. force checkout is deleted any uncommitted change the we did.
 
 # Reset
 
-1.
+1.git checkout reset_question
 2.
    1.
    2.
