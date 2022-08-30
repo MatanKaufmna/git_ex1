@@ -69,5 +69,7 @@ and also the changes that we did for same files and yet add to stage
 
 1.In your GitHub account, create a new repository.
 2.Add this repo as a remote (origin) to the local repo you've worked on along this exercise
-3.Push branches main and dev.
-4.Copy and paste the link to your GitHub repo in the README answers file.
+3.git push origin dev , git push origin main
+4.Copy and paste the link to your GitHub repo in the README answers file
+
+https://github.com/alonitac/DevOpsMay22.git
